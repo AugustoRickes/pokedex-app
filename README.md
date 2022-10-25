@@ -5,4 +5,4 @@
  Scan the QRCode to see the result:
  
 
-![pokedexWiki](https://user-images.githubusercontent.com/103668139/197873452-35ad5f08-7475-4bea-905e-e2e087a829b3.png)
+![pokedexWiki](https://user-images.githubusercontent.com/103668139/197875256-4c8e1235-4c89-4e5a-8117-933318eff267.png)
