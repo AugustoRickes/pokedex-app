@@ -1,4 +1,4 @@
-# <a href="https://pokedexrickes.web.app/">PokedexApp</a>
+# <a href="https://pokedexrickes.web.app/" target="_blank">PokedexApp</a>
 
  Pokedex Wiki app developed with Angular and Materialize CSS. Using Pokeapi as source for data.
  
